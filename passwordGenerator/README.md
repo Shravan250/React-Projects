@@ -12,7 +12,7 @@ Welcome to the **Password Generator** project! This is a simple yet powerful web
 
 ## 🎬 Video
 
-[![Watch the video](/passwordGenerator/video/passwordGenerator.gif)
+![Password Generator Demo](/passwordGenerator/video/passwordGenerator.gif)
 
 ## 🛠️ Technologies Used
 
