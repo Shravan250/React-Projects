@@ -10,9 +10,9 @@ Welcome to the **Password Generator** project! This is a simple yet powerful web
 - **Copy to Clipboard**: Easily copy the generated password with one button press.
 - **Responsive UI**: Works across devices with a clean and user-friendly interface.
 
-## 🖼️ Screenshots
+## 🎬 Video
 
-[![Watch the video](/passwordGenerator/video/passwordGenerator.mp4)
+[![Watch the video](/passwordGenerator/video/passwordGenerator.gif)
 
 ## 🛠️ Technologies Used
 
