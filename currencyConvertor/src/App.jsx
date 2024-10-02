@@ -17,14 +17,16 @@ function App() {
   };
 
   const swap = () => {
-    setFrom((prevFrom) => {
-      setTo(prevFrom);
-      return to;
-    });
-    setAmount((prevAmount) => {
-      setConvertedAmount(prevAmount);
-      return convertedAmount;
-    });
+    const tempFrom = from;
+    const tempTo = to;
+    const tempAmount = amount;
+
+    setFrom(tempTo);
+    setTo(tempFrom);
+    setAmount(convertedAmount);
+
+    const roundedAmount = (tempAmount * currencyInfo[tempTo]).toFixed(2);
+    setConvertedAmount(roundedAmount);
   };
 
   return (
