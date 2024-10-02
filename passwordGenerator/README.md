@@ -13,7 +13,7 @@ Welcome to the **Password Generator** project! This is a simple yet powerful web
 ## 🎥 Video Demo
 
 Check out a video demonstration of the app in action:  
-[Background Color Changer Video](/passwordGenerator/video/passwordGenerator.gif)
+![Background Color Changer Video](/passwordGenerator/video/passwordGenerator.gif)
 
 ## 🛠️ Technologies Used
 

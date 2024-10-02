@@ -11,7 +11,7 @@ Welcome to the **Background Color Changer** project! This React-based app allows
 ## 🎥 Video Demo
 
 Check out a video demonstration of the app in action:  
-[Background Color Changer Video](/bgChanger/video/bgChanger.gif)
+![Background Color Changer Video](/bgChanger/video/bgChanger.gif)
 
 ## 🛠️ Technologies Used
 
