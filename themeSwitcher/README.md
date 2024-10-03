@@ -18,7 +18,10 @@ Welcome to the **Theme Switcher** project! This web-based application allows use
 
 ## 🖼️ Screenshots
 
+Light Mode:
 ![Light Mode](./images/lightTheme.png)
+
+Dark Mode:
 ![Dark Mode](./images/darkTheme.png)
 
 ## 📦 Installation and Setup
